@@ -1,3 +1,5 @@
 <Solution>
-  <Project Path="FamilyCompanion/FamilyCompanion.csproj" />
+  <Project Path="FamilyApp/FamilyApp.csproj">
+    <Deploy Solution="Debug|*" />
+  </Project>
 </Solution>
